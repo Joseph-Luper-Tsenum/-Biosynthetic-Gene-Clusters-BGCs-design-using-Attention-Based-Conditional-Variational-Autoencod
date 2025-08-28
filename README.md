@@ -1,5 +1,13 @@
 ### Biosynthetic Gene Clusters (BGCs) design using Attention-Based Conditional Variational Autoencoder (cVAE)
 
+Course: PHA6935 (AI for Drug Discovery)
+
+Institution: University of Florida
+
+Contact: palash.sethi@ufl.edu, josephtsenum@ufl.edu
+
+Group 3 Members: Palash Sethi and Joseph Luper Tsenum
+
 The model is conditioned on the class of the BGC to which the protein or domain belongs (e.g., Class 1, Class 2).
 
 Data Availability
